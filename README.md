@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning html, css && Js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://instagram.com/salmeron.m.marcelo..
+- 📫 How to reach me https://www.linkedin.com/in/marcelo-salmeron-42390220/
 
 <!---
 MarceloSal/MarceloSal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
