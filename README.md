@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarceloSal
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning html, css && Js
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Developer under construction
+- 🌱 I’m currently learning html, css && Js, Ruby on rails, front end, back end, git
+- 💞️ I'm looking to incorporate new skills for my progress as a developer
 - 📫 How to reach me https://www.linkedin.com/in/marcelo-salmeron-42390220/
 
 <!---
